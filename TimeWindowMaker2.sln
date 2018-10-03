@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "TimeWindowMaker2", "TimeWindowMaker2.rxproj", "{B5DA4B1D-5A4C-4F78-901D-B32501B10EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5DA4B1D-5A4C-4F78-901D-B32501B10EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DA4B1D-5A4C-4F78-901D-B32501B10EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DA4B1D-5A4C-4F78-901D-B32501B10EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DA4B1D-5A4C-4F78-901D-B32501B10EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0652EDE-B46E-44AB-A653-42C9797AAA83}
+	EndGlobalSection
+EndGlobal
